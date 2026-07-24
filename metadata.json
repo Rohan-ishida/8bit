@@ -1,0 +1,6 @@
+{
+  "name": "BlockIt Pomodoro Lock",
+  "description": "Strict Pomodoro focus app with app blocker that locks device view to essential phone, WhatsApp, and messages apps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
